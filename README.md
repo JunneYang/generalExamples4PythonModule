@@ -6,3 +6,6 @@ some general but useful examples of using python module,this project will be alw
 
 ### UpdateRecords:
 * 1.0——base version,demonstration of using python module popen,commands.
+    
+### Kindly Reminder:
+If any questions, please contact JunneYang 597092663@qq.com.
