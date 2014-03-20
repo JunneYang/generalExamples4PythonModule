@@ -6,6 +6,7 @@ some general but useful examples of using python module,this project will be alw
 
 ### UpdateRecords:
 * 1.0——base version,demonstration of using python module popen,commands.
+* 1.1——asynRedisClient demonstration supported,which depends on brukva(https://github.com/evilkost/brukva).
     
 ### Kindly Reminder:
 If any questions, please contact JunneYang 597092663@qq.com.
