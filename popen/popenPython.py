@@ -18,7 +18,6 @@ while 1:
 
     if(RetStdOut == '0'):
         strTime=datetime.datetime.now()
-        logging.DEBUG(strTime)
+        logging.debug(strTime)
         break
     time.sleep(10)
-
